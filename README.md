@@ -7,7 +7,8 @@ This project focuses on **predicting product demand** using machine learning. Th
 The project follows an end-to-end machine learning workflow, starting from **data exploration and preprocessing** to **model training, hyperparameter tuning, evaluation, and model saving**.
 
 ---
-link to website : (http://localhost:8501/)
+link to website : (Local URL: http://localhost:8501
+  Network URL: http://192.168.1.6:8501)
 ##  Objective
 
 The main objective of this project is to build a machine learning model that can accurately predict **Demand**, which is a continuous numerical value.
